@@ -25,3 +25,7 @@ logging:
     cn.itsource.hrm.mapper: debug
 
 
+hrm:
+  swagger:
+    title: 系统服务
+    description: 系统服务接口描述
