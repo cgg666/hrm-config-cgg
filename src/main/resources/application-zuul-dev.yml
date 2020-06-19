@@ -10,7 +10,7 @@ zuul:
     course:
       path: /course/**
       service-id: course-service
-     file:
+    file:
       path: /file/**
       service-id: file-service
 
