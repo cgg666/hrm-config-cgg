@@ -31,5 +31,5 @@ spring:
 
 #网关超时配置
 ribbon:
-  ReadTimeout: 6000
-  SocketTimeout: 6000
+  ReadTimeout: 8000
+  SocketTimeout: 8000
